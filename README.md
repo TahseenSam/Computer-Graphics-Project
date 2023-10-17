@@ -13,6 +13,10 @@ The project consists of several interactive elements and animations, including:
 6. A walking character animation.
 7. A closing screen with a farewell message.
 
+## Video Review
+https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/0999ad8e-f9b3-4efe-9961-175b1c208be2
+
+
 ## Prerequisites
 - A C compiler that supports the graphics.h library (Turbo C/C++ or DevC++ recommended).
 - A system capable of running graphics-based applications.
@@ -31,14 +35,17 @@ The project consists of several interactive elements and animations, including:
 
 ## Screenshots
 You can find screenshots of various stages of the project in the 'screenshots' folder. Here Are the main elements
-1. Loading Screen
-![image](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/535aa7c3-d0da-4959-ab21-4be53e7fb9ed)
-  
-2. Truck
-![image](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/19e97e75-28aa-402f-b1ce-f9f44c67966b)
+- **Loading Screen**
+- 
+  ![Loading Screen](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/a903dbd3-9792-4bed-8b35-f590d8329f5b)
 
-3. Person and Home
-![image](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/df05a53c-9228-4371-ba8d-78bafa001779)
+- **Truck Animation**
+- 
+  ![Truck Animation](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/19e97e75-28aa-402f-b1ce-f9f44c67966b)
+
+- **Character and Home**
+- 
+  ![Character and Home](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/df05a53c-9228-4371-ba8d-78bafa001779)
 
 ## License
 
