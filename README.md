@@ -30,8 +30,11 @@ The project consists of several interactive elements and animations, including:
 3. Interact with the project using keyboard input as indicated.
 
 ## Screenshots
-
-You can find screenshots of various stages of the project in the 'screenshots' folder.
+You can find screenshots of various stages of the project in the 'screenshots' folder. Here Are the main elements
+1. Loading Screen 
+2. Person
+3. Truck
+4. Home
 
 
 ## License
