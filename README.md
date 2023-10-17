@@ -21,7 +21,7 @@ The project consists of several interactive elements and animations, including:
 
 1. Clone or download the repository to your local machine.
 2. Open the project in a C/C++ IDE that supports graphics programming (e.g.,  Dev C++).
-3. Compile and run the `main.c` file.
+3. Compile and run the `project.cpp` file.
 
 ## How to Use
 
@@ -31,11 +31,14 @@ The project consists of several interactive elements and animations, including:
 
 ## Screenshots
 You can find screenshots of various stages of the project in the 'screenshots' folder. Here Are the main elements
-1. Loading Screen 
-2. Person
-3. Truck
-4. Home
+1. Loading Screen
+![image](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/535aa7c3-d0da-4959-ab21-4be53e7fb9ed)
+  
+2. Truck
+![image](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/19e97e75-28aa-402f-b1ce-f9f44c67966b)
 
+3. Person and Home
+![image](https://github.com/TahseenSam/Computer-Graphics-Project/assets/95973635/df05a53c-9228-4371-ba8d-78bafa001779)
 
 ## License
 
